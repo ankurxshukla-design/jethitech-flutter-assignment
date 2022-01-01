@@ -7,6 +7,9 @@
 -	The next time, user clicks over his name he is not shown the dialog, simply taken to next screen, where his details name, age, and gender is shown.
 -	On clicking sign-out, we remove user sign-in state from the local DB, so button toggles to sign-in once again!
 
+## Screenshots
+![screenshots](https://user-images.githubusercontent.com/79007333/147857942-8e865425-cb63-456d-bffa-2ed754c2e61b.png)
+
 ## Packages used:
 1. [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 2. [hive](https://pub.dev/packages/hive)
