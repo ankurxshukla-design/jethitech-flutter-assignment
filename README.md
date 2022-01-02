@@ -1,11 +1,4 @@
-# Assignment for JethiTech Internship
-
-## Assignment details:
--	Use the attached json file as your mock data as API response, parse this user data and display in a list view, alongside his name there will be button named sign-in!
--	Once the user taps on his name for the first time, he’ll be prompted a dialog where he need to fill in his age and gender, once they have done so, it’ll take the user to the new screen where he’ll be displayed his name, age, gender!
--	Now, once this is done every individual users sign-in is retained in local storage, using DB of your preference like getStorage, hive… so now the sign-in button alongside the name changes to sign-out.
--	The next time, user clicks over his name he is not shown the dialog, simply taken to next screen, where his details name, age, and gender is shown.
--	On clicking sign-out, we remove user sign-in state from the local DB, so button toggles to sign-in once again!
+# Assignment for Internship
 
 ## Screenshots
 ![screenshots](https://user-images.githubusercontent.com/79007333/147857942-8e865425-cb63-456d-bffa-2ed754c2e61b.png)
